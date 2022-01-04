@@ -1,6 +1,8 @@
-''' this creates new copies of all files in a directory. 
-    resulting in last modified time being updated to current time
+''' 
+this creates new copies of all files in a directory. 
+resulting in last modified time being updated to current time
 '''
+
 import os
 
 for dir in os.listdir('C:\\Users\\toolep\\Desktop\\testfile'):
